@@ -20,7 +20,7 @@ export default function Registration () {
              <Animatable.View animation="fadeInLeft" style={styles.containerForm}>
              <Text style={styles.title}>Numero celular </Text>
                 <TextInput
-                    placeholder="Digite seu celular  com ddd valido..."
+                    placeholder="Digite seu celular ..."
                     style={styles.input}
                 
 
